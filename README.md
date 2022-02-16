@@ -1,5 +1,5 @@
 # Surfs-up
-Module 9
+Web Scraping with SQLAlchemy, SQLite and Flask
 
 ## Overview
 We were tasked with providing analytics on a weather dataset for the island of Oahu, Hawaii in order to determine the feasablity of opening up a surf shop based on the weather conditions. More specifically we needed to discern the sustainablity of the business year round so we would analyze the weather data for the months of june and december
